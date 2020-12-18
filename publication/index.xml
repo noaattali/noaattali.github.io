@@ -5,12 +5,28 @@
     <link>https://noaattali.github.io/publication/</link>
       <atom:link href="https://noaattali.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://noaattali.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://noaattali.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Acoustic and Speaker Features Underlying Understandability in L2 Speech</title>
+      <link>https://noaattali.github.io/publication/attali-2019-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://noaattali.github.io/publication/attali-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tragicomedy on the Road to Modernity: Interpreting the Genre of The Winter&#39;s Tale</title>
+      <link>https://noaattali.github.io/publication/attali-2019-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://noaattali.github.io/publication/attali-2019-b/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
